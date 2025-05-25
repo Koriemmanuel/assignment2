@@ -1,2 +1,2 @@
-# My first python calculator
+# JUST TESTING
 ## ENJOY!!
